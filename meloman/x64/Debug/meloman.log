@@ -1,0 +1,3 @@
+﻿  melo.cpp
+C:\Users\nazar\source\repos\practice\meloman\melo.cpp(106,49): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  meloman.vcxproj -> C:\Users\nazar\source\repos\practice\x64\Debug\meloman.exe
